@@ -1,0 +1,36 @@
+[
+    {
+      "title": "GIT and github course",
+      "imageSrc": "projects/project.png",
+      "description": "Comprehensive coverage of advanced git and github concepts . in-depth exploration of concept, including working and application of git and github Gained hands on experience by performing and learning.",
+      "skills": ["Git","Github"],
+      "demo": "https://www.example.com",
+      "source": "https://certifications.geekster.in/9_uSQMxLNkg9k2SJsEtBa-geekster.pdf"
+    },
+    {
+      "title": "Neural net and deep learning",
+      "imageSrc": "projects/project.png",
+      "description": "Gaining foundational knowledge in neural networks, model creation, optimization with hands-on Python experience in building deep learning models.",
+      "skills": ["python ","Deep Learning","ANN Architecture"],
+      "demo": "https://www.example.com",
+      "source": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~O0BR889OP23E/CERTIFICATE_LANDING_PAGE~O0BR889OP23E.jpeg"
+    },
+    {
+      "title": "Data analytics",
+      "imageSrc": "projects/project.png",
+      "description": "statistical analysis and data driven decision making using industry standards tools like excel , python it involves cleaning and analyzing large datasets,deriving actionable insights and visualization",
+      "skills": ["pandas","analysis","EDA"],
+      "demo": "https://www.example.com",
+      "source": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_k9TFp8ihA8dSJfvXA_1724609210233_completion_certificate.pdf"
+    },
+    {
+        "title": "AWS Machine learning",
+        "imageSrc": "projects/project.png",
+        "description": "AWS Machine Learning: Skilled in using AWS services AI tools for building, deploying, and managing scalable ML models.",
+        "skills": ["amazon pipeline","services","virtual machine","model deployment"],
+        "demo": "https://www.example.com",
+        "source": "https://www.coursera.org/account/accomplishments/verify/HKMVXB97JVGS"
+      }
+  ]
+
+  

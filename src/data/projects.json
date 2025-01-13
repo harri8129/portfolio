@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Skin diseases detection ",
+      "imageSrc": "projects/project.png",
+      "description": "It is built using tensorflow for model creation,training and django framework it is trained on 8 classes of diseases. This project detects diseases and gemini LLM is integrated to produce enhanced information about the diseases. ",
+      "skills": ["python", "Tensorflow", "Django","gemini api"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harri8129/Skin-Disease-detection-system-"
+    },
+    {
+      "title": "Email spam detection",
+      "imageSrc": "projects/project.png",
+      "description": "Built a nlp model to detect email spam .utilized Naive Bayes classifier and TF-IDF features for text analysis .Achieved high accuracy in classifying spam and non-spam messages.and configured using streamlit.",
+      "skills": ["nlp","streamlit","supervised learning"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harri8129/Email-spam-"
+    },
+    {
+      "title": "Watch store website",
+      "imageSrc": "projects/project.png",
+      "description": "Developed Ecommerce website using MERN stack .The website is for watch stores with advanced features such as filters, secure authentication, and checkout process.",
+      "skills": ["React", "Express", "Node","mongo Db"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harri8129/WatchStore-Website"
+    }
+  ]
+
+  
